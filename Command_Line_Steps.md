@@ -32,7 +32,7 @@ Check file created
 
 Edit file in editor like VSC and save changes
 
-Add file to branch for next commit
+Add file to branch for next commit, moves it to staging, ready for commit
 `git add someFile.md`
 
 Commit changes to branch
@@ -40,3 +40,15 @@ Commit changes to branch
 
 Push changes for merge
 `git push`
+
+For merge, check out to the master branch
+```git checkout master```
+
+Merge your branch
+```git merge myBranchName```
+
+Push the merged history to Git
+```git push```
+
+Delete your branch locally 
+```git branch -d myBranchName```
