@@ -41,7 +41,7 @@ Commit changes to branch
 Push changes for merge
 `git push`
 
-For merge, check out to the master branch
+For merge, check out to the master(main) branch, always have to be on main branch to checkout
 ```git checkout master```
 
 Merge your branch
