@@ -50,6 +50,10 @@ Add file to branch for next commit, moves it to staging, ready for commit
 ```javascript
 git add someFile.md
 ```
+OR to add all changed files
+```javascript
+git add -A
+```
 Commit changes to branch
 ```javascript
 git commit -m "This is the heading for my changes"
