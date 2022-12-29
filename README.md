@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop! 
+# Welcome to my quick Github tutorial.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+There are many places to find these commands, I learned this through a LinkedIn Learning course "Learning GitHub" By Aaron Stewart.  Purpose of this repo is simply I wanted a singluar place to walk through the commands for VSC.
 
 For tips on Command Line go here: https://github.com/jsabor/desktop-tutorial/blob/main/Command_Line_Steps.md
