@@ -1,11 +1,11 @@
-Set git config user.name and user.email in terminal, who is making the changes.
+Set git config user.name and user.email, quoted, in terminal, who is making the changes.
 
 ```javascript
-git config --global user.name "yourGitUserName"
+git config --global user.name <<"yourGitUserName">>
 ```
 
 ```javascript
-git config --global user.email "your email"
+git config --global user.email <<"your email">>
 ```
 
 Clone your repo locally to your preferred directory, like Documents/GitHub/ or desktop, <<>> denote placeholders.
