@@ -104,7 +104,7 @@ Merge your branch.
 git merge <<my-branch-name>>
 ```
 
-Push the merged history to Git.
+If your main branch has Pull Request (PR) protection, go to GUI to review. After that (of if no protection is in place), push the merged history to Git.
 
 ```javascript
 git push
