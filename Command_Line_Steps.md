@@ -13,6 +13,7 @@ Clone your repo locally to your preferred directory, like Documents/GitHub/ or d
 ```javascript
 cd desktop
 ```
+Cannot use password, generate Personal Access Token as one option in your Developer Settings
 
 ```javascript
 git clone <<the URL of repo>>
